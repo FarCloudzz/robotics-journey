@@ -27,6 +27,7 @@ _最后更新：2026-10（W1）_
 ## 值得一读
 
 - [WSL2 内 GitHub 不可达：从 hosts 劫持到中间人证书链](troubleshooting/2026-10-wsl-github-network.md)
+- [ROS 2 环境不完整：同一个包，两种失败的测试](troubleshooting/2026-10-ros2-env-and-lib-loading.md)
 
 ## 技术栈
 
